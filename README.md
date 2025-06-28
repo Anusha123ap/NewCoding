@@ -20,7 +20,9 @@ Technologies Used :
 
 Project Structure :
 project-root/ --- index.html  #main
+
 HTML structure  --- style.css  #styling
+
 layout and icons ----script.js  #javascript
 
 
